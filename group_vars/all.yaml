@@ -10,3 +10,4 @@ SHIPPING_HOST: shipping-{{env}}.daws88.sbs
 PAYMENT_HOST: payment-{{env}}.daws88.sbs
 RABBITMQ_HOST: rabbitmq-{{env}}.daws88.sbs
 FRONTEND_HOST: frontend-{{env}}.daws88.sbs
+app_version: v3
